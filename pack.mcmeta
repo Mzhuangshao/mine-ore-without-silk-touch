@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "credit": "M_zhuangshao",
+    "description": "§8§n支持1.20.x ~ 1.21.x §r§6\n所有原矿无需精准采集均可掉落自身，可用于TNT采矿机\n使用时运附魔则掉落矿物",
+    "pack_format": 48,
+    "supported_formats": [
+      27,
+      4
+    ]
+  }
+}
