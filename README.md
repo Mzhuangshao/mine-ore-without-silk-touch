@@ -1,5 +1,5 @@
 - Supports 1.20.x ~ 1.21.x
-- All Ores can drop themselves without `Silk Touch`, 和 can be used in TNT mining machines
+- All Ores can drop themselves without `Silk Touch`, and can be used in TNT mining machines
 - Use the `Fortune` enchantment to drop minerals
 ---
 - 支持1.20.x ~ 1.21.x
